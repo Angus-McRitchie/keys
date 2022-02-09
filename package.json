@@ -1,0 +1,25 @@
+{
+    "name": "@gooby/keys",
+    "version": "1.0.0",
+    "description": "Converts capitalization of object keys.",
+    "main": "index.js",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/angus-mcritchie/keys"
+    },
+    "keywords": [
+        "object",
+        "key",
+        "case",
+        "snake",
+        "camel",
+        "recursive"
+    ],
+    "author": "Angus McRitchie",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/angus-mcritchie/keys"
+    },
+    "homepage": "https://github.com/angus-mcritchie/keys"
+}
